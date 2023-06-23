@@ -14,7 +14,7 @@ Welcome to the QR CODE GEN Web App! This web application allows you to easily ge
 
 To use the QR CODE GEN Web App, follow these simple steps:
 
-1. Visit the web application at [https://rovindu-thamuditha.github.io/qrgen/](https://qr-code-gen-app.com).
+1. Visit the [live web application.](https://rovindu-thamuditha.github.io/qrgen/).
 2. Enter the text or URL for which you want to generate a QR code.
 3. Optionally, customize the QR code's appearance by selecting your preferred color, size, and style.
 4. Click the "Generate" button to create your QR code.
@@ -46,7 +46,7 @@ If you want to run the QR CODE GEN Web App locally or contribute to its developm
 
 ## Feedback and Support
 
-If you encounter any issues while using the QR CODE GEN Web App or have any suggestions for improvement, please submit an issue at [https://github.com/Rovindu-Thamuditha/qrgen/issues]. We appreciate your feedback and will do our best to address any problems promptly.
+If you encounter any issues while using the QR CODE GEN Web App or have any suggestions for improvement, please submit an issue at [here](https://github.com/Rovindu-Thamuditha/qrgen/issues). We appreciate your feedback and will do our best to address any problems promptly.
 
 # License
 
