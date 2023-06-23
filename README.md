@@ -1,6 +1,6 @@
 # QR CODE GEN Web App
 
-![QR CODE GEN Web App](screenshot.png)
+![QR CODE GEN Web App](image.png)
 
 Welcome to the QR CODE GEN Web App! This web application allows you to easily generate QR codes for various purposes. Whether you need a QR code for a website URL, contact information, or any other text-based data, this app has got you covered.
 
