@@ -25,7 +25,6 @@ qrInput.addEventListener("keyup", () => {
 
 var timer;
 let duration = Math.random() * (2900 - 200);
-console.log(duration)
 function myFunction() {
     timer = setTimeout(showPage, duration);
 }
